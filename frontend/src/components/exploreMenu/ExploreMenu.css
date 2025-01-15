@@ -1,0 +1,57 @@
+.ExploreMenu{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.ExploreMenu h1{
+    color: #262626;
+    font-weight: 500;
+}
+.ExploreMenu-Text{
+    max-width: 60%;
+    color: #262626;
+}
+.ExploreMenu-List{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    text-align: center;
+    margin: 20px 0px;
+    overflow-x:scroll ;
+}
+.ExploreMenu-List::-webkit-scrollbar{
+    display: none;
+}
+.ExploreMenu-List-Item{
+    width: 7.5vw;
+    min-width: 80px;
+    cursor: pointer;
+    border-radius:50% ;
+    transition: 0.2s;
+    margin-left: 40px;
+}
+.ExploreMenu-List-Item p{
+    margin-top: 10px;
+    color: #747474;
+    font-size: max(1.4vw,16px);
+    cursor: pointer;
+    margin-left: 29px;
+}
+hr{
+    margin: 10px 0px;
+    height: 2px;
+    background-color: #e2e2e2;
+    border: none;
+}
+.ExploreMenu-List-Item .active{
+    border: 4px solid tomato;
+    padding: 2px ;
+    border-radius: 50%;
+}
+@media (max-width:1050px){
+    .ExploreMenu-Text{
+        max-width: 100%;
+        font-size: 14px;
+    }
+}
