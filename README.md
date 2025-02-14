@@ -25,20 +25,10 @@ cd Tomato
   
 
 
-install dependency
+##install dependency
 
 npm install
 cd client
 npm install
 
-
-🎯 Future Enhancements
-📱 Mobile App version.
-🛎️ Table booking system.
-🎁 Discount & loyalty programs.
-
-
-📧 Contact
-For any queries, reach out at:
-✉️ mansahibsinghgalshi@gmail.com
 
