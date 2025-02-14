@@ -4,6 +4,8 @@ import { connectDB } from './config/db.js';
 import foodRouter from './routes/foodRoute.js';
 import userRouter from './routes/userRoute.js';
 import "dotenv/config";
+import CartRouter from './routes/cartRoute.js';
+import orderRouter from './routes/orderRoute.js';
 
 
 
@@ -33,9 +35,14 @@ app.use("/images",express.static('uploads'))
 app.use("/api/user",userRouter)
 
 
+app.use("/api/cart",CartRouter);
+
+app.use("/api/order",orderRouter);
 app.get("/",(req,res)=>{
   res.send("api working")
 })
+
+
 
 app.listen(port,()=>{
     console.log(`running at http://localhost:${port}`)
