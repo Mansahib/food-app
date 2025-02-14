@@ -30,16 +30,16 @@ For any queries, reach out at:
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](assets/screenshots/ss1.png)
+![Home Page](assests/screenshots/ss1.png)
 
 ### 🍕 Menu Page
-![Menu Page](assets/screenshots/ss2.png)
+![Menu Page](assests/screenshots/ss2.png)
 
 ### 🛒 Cart Page
-![Cart Page](assets/screenshots/ss3.png)
+![Cart Page](assests/screenshots/ss3.png)
 
 ### 🛒 login Page
-![login Page](assets/screenshots/ss4.png)
+![login Page](assests/screenshots/ss4.png)
 
 
 ## 📦 Installation & Setup
