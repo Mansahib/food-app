@@ -27,6 +27,17 @@ It allows users to browse menus, add items to a cart, make payments, and provide
 For any queries, reach out at:
 ✉️ mansahibsinghgalshi@gmail.com
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](assets/screenshots/home.png)
+
+### 🍕 Menu Page
+![Menu Page](assets/screenshots/menu.png)
+
+### 🛒 Cart Page
+![Cart Page](assets/screenshots/cart.png)
+
 
 ## 📦 Installation & Setup
 ### 1️⃣ Clone the Repository
