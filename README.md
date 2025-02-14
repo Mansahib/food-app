@@ -17,6 +17,17 @@ It allows users to browse menus, add items to a cart, make payments, and provide
 - **Authentication**: JWT
 - **Payment Gateway**: Stripe (or any other)
 
+##🎯 Future Enhancements
+📱 Mobile App version.
+🛎️ Table booking system.
+🎁 Discount & loyalty programs.
+
+
+📧 Contact
+For any queries, reach out at:
+✉️ mansahibsinghgalshi@gmail.com
+
+
 ## 📦 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
