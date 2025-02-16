@@ -16,8 +16,9 @@ It allows users to browse menus, add items to a cart, make payments, and provide
 - **Database**: MongoDB
 - **Authentication**: JWT
 - **Payment Gateway**: Stripe (or any other)
+---
 
-##🎯 Future Enhancements
+## 🎯 Future Enhancements
 📱 Mobile App version.
 🛎️ Table booking system.
 🎁 Discount & loyalty programs.
