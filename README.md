@@ -23,8 +23,8 @@ It allows users to browse menus, add items to a cart, make payments, and provide
 🛎️ Table booking system.
 🎁 Discount & loyalty programs.
 
-
-📧 Contact
+---
+## 📧 Contact
 For any queries, reach out at:
 ✉️ mansahibsinghgalshi@gmail.com
 
@@ -40,6 +40,14 @@ For any queries, reach out at:
 ![Cart Page](assests/screenshots/ss3.png)
 
 ### 🛒 login Page
+![login Page](assests/screenshots/ss4.png)
+### 🛒 payents
+![login Page](assests/screenshots/ss4.png)
+### 🛒 admin Page
+![login Page](assests/screenshots/ss4.png)
+### 🛒 add foods
+![login Page](assests/screenshots/ss4.png)
+### 🛒 update orders
 ![login Page](assests/screenshots/ss4.png)
 
 
