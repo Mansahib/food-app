@@ -39,16 +39,26 @@ For any queries, reach out at:
 ### 🛒 Cart Page
 ![Cart Page](assests/screenshots/ss3.png)
 
+### 🛒 Myorders Page
+![myorders Page](assests/screenshots/myorders.png)
+
+### 🛒 Checkout Page
+![check Page](assests/screenshots/checkout.png)
+
+### 🛒 Payment Page
+![Cart Page](assests/screenshots/payments.png)
+
 ### 🛒 login Page
 ![login Page](assests/screenshots/ss4.png)
-### 🛒 payents
-![login Page](assests/screenshots/ss4.png)
+
+
 ### 🛒 admin Page
-![login Page](assests/screenshots/ss4.png)
+![admin Page](assests/screenshots/allorders.png)
+
 ### 🛒 add foods
-![login Page](assests/screenshots/ss4.png)
-### 🛒 update orders
-![login Page](assests/screenshots/ss4.png)
+![addfood Page](assests/screenshots/additems.png)
+### 🛒 All itmems
+![all](assests/screenshots/allitems.png)
 
 
 ## 📦 Installation & Setup
