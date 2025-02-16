@@ -56,7 +56,7 @@ For any queries, reach out at:
 ![admin Page](assests/screenshots/allorders.png)
 
 ### 🛒 add foods
-![addfood Page](assests/screenshots/additems.png)
+![addfood Page](assests/screenshots/additem.png)
 ### 🛒 All itmems
 ![all](assests/screenshots/allitems.png)
 
